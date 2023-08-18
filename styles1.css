@@ -1,0 +1,7 @@
+.background-section {
+    background-image: url('../vaso-html-template-free-version/images/background3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; /* Adjust as needed */
+    /* Add more CSS properties if necessary */
+}
